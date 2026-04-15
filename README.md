@@ -60,7 +60,7 @@
                                                             
   ```bash                                                                                     
   git clone https://github.com/pe1109ggy/-skill.git ~/.claude/skills/luxun-perspective
-                                                                                              
+```bash
 
 2. 验证安装                                                                                 
                                                                                               
