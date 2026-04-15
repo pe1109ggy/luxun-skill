@@ -61,7 +61,8 @@
   ```bash                                                                                     
   git clone https://github.com/pe1109ggy/-skill.git ~/.claude/skills/luxun-perspective
                                                                                               
-  2. 验证安装                                                                                 
+
+2. 验证安装                                                                                 
                                                                                               
   重启或刷新 Claude Code 后，在对话中说：                                                     
                                                             
