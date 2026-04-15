@@ -58,8 +58,9 @@
                                                             
   1. **克隆仓库到本地 skills 目录**                                                           
                                                                                                                                 
-  在终端运行：git clone https://github.com/pe1109ggy/-skill.git                               
-  ~/.claude/skills/luxun-perspective    
+  ```bash
+  git clone https://github.com/pe1109ggy/-skill.git ~/.claude/skills/luxun-perspective
+```
                                                                                               
   2. 验证安装                                                                                
                                                                                               
