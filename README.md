@@ -57,13 +57,11 @@
   ### 步骤                                                                                    
                                                             
   1. **克隆仓库到本地 skills 目录**                                                           
-                                                            
+                                                                                                                                
   ```bash                                                                                     
-  git clone https://github.com/pe1109ggy/-skill.git ~/.claude/skills/luxun-perspective
-  ```bash                                                                                     
-  git clone ... 
-
-2. 验证安装                                                                                 
+  git clone https://github.com/pe1109ggy/-skill.git ~/.claude/skills/luxun-perspective        
+                                                                                              
+  2. 验证安装                                                                                
                                                                                               
   重启或刷新 Claude Code 后，在对话中说：                                                     
                                                             
